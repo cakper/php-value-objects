@@ -20,4 +20,4 @@
 * Konstantin Kudryashov [@everzet](https://twitter.com/everzet)
 * PHPValueObjects [@phpvalueobjects](https://twitter.com/phpvalueobjects)
 
-If you want to suggest a resource, email suggestions@phpvalueobjects.info.
+If you want to suggest a resource, email suggestions (at) phpvalueobjects (dot) info.
