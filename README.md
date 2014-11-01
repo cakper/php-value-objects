@@ -19,5 +19,6 @@
 * Mathias Verraes [@mathiasverraes](https://twitter.com/mathiasverraes)
 * Konstantin Kudryashov [@everzet](https://twitter.com/everzet)
 * PHPValueObjects [@phpvalueobjects](https://twitter.com/phpvalueobjects)
+* Kacper Gunia [@cakper](https://twitter.com/cakper)
 
 If you want to suggest a resource, email suggestions (at) phpvalueobjects (dot) info.
