@@ -1,7 +1,7 @@
 # Welcome to PHP Value Objects
-ValueObjects are an essential concept when implementing Domain Driven Design, but they can be used in any OO project. [@cakper](https://twitter.com/cakper)'s [recent blog post](http://kacper.gunia.me/blog/ddd-building-blocks-in-php-value-object) is a good introduction, and we'll link to more resources in the coming weeks.
+[Value Objects](http://martinfowler.com/bliki/ValueObject.html) are an essential concept when implementing Domain Driven Design, but they can be used in any PHP project. [@cakper](https://twitter.com/cakper)'s [recent blog post](http://kacper.gunia.me/blog/ddd-building-blocks-in-php-value-object) is a good introduction, and we'll link to more resources in the coming weeks.
 
-## Recommended Reading
+## Recommended Reading/Listening
 * [Wikipedia](https://en.wikipedia.org/wiki/Value_object)
 * [The Elephant in the Room Podcast, Episode 2](http://elephantintheroom.io/blog/2013/10/episode-2-heart-and-soul-of-oop/) by [@mathiasverraes](https://twitter.com/mathiasverraes) and [@everzet](https://twitter.com/everzet) (2013-10)
 * [DDD Building Blocks in PHP: Value Objects](http://kacper.gunia.me/blog/ddd-building-blocks-in-php-value-object) by [@cakper](https://twitter.com/cakper) (2014-10)
