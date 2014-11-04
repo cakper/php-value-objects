@@ -2,7 +2,7 @@
 [Value Objects](http://martinfowler.com/bliki/ValueObject.html) are an essential concept when implementing Domain Driven Design, but they can be used in any PHP project. [@cakper](https://twitter.com/cakper)'s [recent blog post](http://kacper.gunia.me/blog/ddd-building-blocks-in-php-value-object) is a good introduction, and we'll link to more resources in the coming weeks.
 
 ## Value Object Basics
-A Value Object is a simple object that is defined by its properties, and reflects a concept from the business domain - e.g. Money, and Email Address, Temperature, Location etc. The main characteristic of a Value Object is that it is *immutable*. This means that it has
+A Value Object is a simple object that is defined by its properties, and reflects a concept from the business domain - e.g. Money, Email Address, Temperature, Location etc. The main characteristic of a Value Object is that it is *immutable*. This means that it has
 
 * all properties initialised in the constructor
 * no setters
