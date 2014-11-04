@@ -16,7 +16,7 @@ You can use a Value Object anywhere you might have used a simple scalar value or
 * you can have Null Value Objects
 * it can contain business/domain logic
 
-Using a Value Object will help you encapsulate behaviour that would otherwise have been in code that accesses an associative array. This will make your code easier to understand and reduce the chance of errors.
+Using a Value Object will help you encapsulate behaviour more easily. This will make your code easier to understand and reduce the chance of errors.
 
 If you are working with legacy code, refactoring to extract Value Objects is a relatively simple process that will pay dividends.
 
