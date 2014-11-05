@@ -24,7 +24,9 @@ If you are working with legacy code, refactoring to extract Value Objects is a r
 * [Wikipedia](https://en.wikipedia.org/wiki/Value_object)
 * [The Elephant in the Room Podcast, Episode 2](http://elephantintheroom.io/blog/2013/10/episode-2-heart-and-soul-of-oop/) by [@mathiasverraes](https://twitter.com/mathiasverraes) and [@everzet](https://twitter.com/everzet) (2013-10)
 * [Value Objects and User Interfaces](http://verraes.net/2013/11/value-objects-and-user-interfaces/) by [@mathiasverraes](https://twitter.com/mathiasverraes) (2013-11)
+* [Client validations VS protecting domain consistency](http://benjamindulau.com/blog/posts/client-validations-vs-protecting-domain-consistency) by [@Delendial](https://twitter.com/Delendial) (2014-06)
 * [DDD Building Blocks in PHP: Value Objects](http://kacper.gunia.me/blog/ddd-building-blocks-in-php-value-object) by [@cakper](https://twitter.com/cakper) (2014-10)
+* [Validating Value Objects](http://kacper.gunia.me/blog/validating-value-objects) by [@cakper](https://twitter.com/cakper) (2014-10)
 
 ## Implementations
 ### Money
@@ -40,5 +42,6 @@ If you are working with legacy code, refactoring to extract Value Objects is a r
 * Konstantin Kudryashov [@everzet](https://twitter.com/everzet)
 * PHPValueObjects [@phpvalueobjects](https://twitter.com/phpvalueobjects)
 * Kacper Gunia [@cakper](https://twitter.com/cakper)
+* Benjamin Dulau [@Delendial](https://twitter.com/Delendial)
 
 If you want to suggest a resource, email suggestions (at) phpvalueobjects (dot) info.
