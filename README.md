@@ -28,6 +28,7 @@ If you are working with legacy code, refactoring to extract Value Objects is a r
 * [Client validations VS protecting domain consistency](http://benjamindulau.com/blog/posts/client-validations-vs-protecting-domain-consistency) by [@Delendial](https://twitter.com/Delendial) (2014-06)
 * [DDD Building Blocks in PHP: Value Objects](http://kacper.gunia.me/blog/ddd-building-blocks-in-php-value-object) by [@cakper](https://twitter.com/cakper) (2014-10)
 * [Validating Value Objects](http://kacper.gunia.me/blog/validating-value-objects) by [@cakper](https://twitter.com/cakper) (2014-10)
+* [Value Objects](http://richardmiller.co.uk/2014/11/06/value-objects/) by [@mr_r_miller](https://twitter.com/mr_r_miller)
 
 ## Implementations
 ### Money
@@ -45,5 +46,6 @@ If you are working with legacy code, refactoring to extract Value Objects is a r
 * Kacper Gunia [@cakper](https://twitter.com/cakper)
 * Benjamin Dulau [@Delendial](https://twitter.com/Delendial)
 * Ross Tuck [@rosstuck](https://twitter.com/rosstuck)
+* Richard Miller [@mr_r_miller](https://twitter.com/mr_r_miller)
 
 If you want to suggest a resource, email suggestions (at) phpvalueobjects (dot) info.
