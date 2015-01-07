@@ -30,6 +30,7 @@ If you are working with legacy code, refactoring to extract Value Objects is a r
 * [Validating Value Objects](http://kacper.gunia.me/blog/validating-value-objects) by [@cakper](https://twitter.com/cakper) (2014-10)
 * [Value Objects](http://richardmiller.co.uk/2014/11/06/value-objects/) by [@mr_r_miller](https://twitter.com/mr_r_miller) (2014-11)
 * [Value Objects and Immutability](http://richardmiller.co.uk/2014/11/21/value-objects-and-immutability/) by [@mr_r_miller](https://twitter.com/mr_r_miller) (2014-11)
+* [Domain Driven Design in PHP](https://leanpub.com/ddd-in-php/read)
 
 ## Implementations
 ### Money
